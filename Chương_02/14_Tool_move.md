@@ -2,9 +2,17 @@
 
 4 công cụ di chuyển và các thao tác
 
-Move tool: công cụ di chuyển - các layer, các hình ảnh, các element trong phần mềm - phím tắt nhanh là **"V"**
+Move tool: công cụ di chuyển 
+
+- các layer, các hình ảnh, các element trong phần mềm 
+- phím tắt nhanh là **"V"**
+
 Hand tool: di chuyển bằng tay - giữ phím space rồi kéo
-Zoom tool: zoom in zoom out - ctrl + alt cùng 1 lúc sau đó lăn chuột, lên zoom in, xuống zoom out
+
+Zoom tool: zoom in zoom out 
+
+- ctrl + alt cùng lúc đó lăn chuột, lên zoom in, xuống zoom out
+
 Rotate tool: xoay view của mình nhìn thui không xoay bức ảnh
 
 Bấm tổ hợp phím "CRTL + T": hiển thị: Hand Zoom Rotate
@@ -18,9 +26,12 @@ so sánh ảnh gốc và ảnh chỉnh sửa: Chọn window -> Arrange -> 2 up v
 
 
 **alt + chuột phải + kéo: điều chỉnh nhanh đầu cọ to hay nhỏ**
-kéo qua trái nhỏ lại
-kéo qua phải nhỏ lại
 
+- kéo qua trái nhỏ lại
+- kéo qua phải nhỏ lại
+
+
+Nhấn giữ phím "space" + "chuột phải kéo thả" để di chuyển
 
 
 

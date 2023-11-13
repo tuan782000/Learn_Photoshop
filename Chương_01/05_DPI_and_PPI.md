@@ -7,7 +7,7 @@ PPI: Pixel per inch - số lượng pixel nằm trên mỗi inch
 DPI: Dot per inch - số lượng chấm trên mỗi inch
 
 
-PPI (PIXEL PER INCH): có nghĩa là số pixel trên mỗi inch. Được liên kết với màn hình của các thiết bị kỹ thuật số. Mỗi pixel tuowgn đương với một điểm sáng đến từ bất kỳ màn hình nào. PPI cũng hảnh hưởng đến chất lượng khi in.
+PPI (PIXEL PER INCH): có nghĩa là số pixel trên mỗi inch. Được liên kết với màn hình của các thiết bị kỹ thuật số. Mỗi pixel tương đương với một điểm sáng đến từ bất kỳ màn hình nào. PPI cũng hảnh hưởng đến chất lượng khi in.
 
 => PPI được áp dụng cho kỹ thuật số và in ấn.
 

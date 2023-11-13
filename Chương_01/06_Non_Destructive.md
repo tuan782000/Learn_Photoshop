@@ -2,7 +2,7 @@
 
 destructive: mang tính phá hủy
 
-non-destructive: không mang tính chaasrt phá hủy trạng thái góc ban đầu.
+non-destructive: không mang tính chất phá hủy trạng thái góc ban đầu.
 
 Mà ta còn có thể chỉnh sửa lại bất cứ lúc nào
 

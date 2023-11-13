@@ -61,3 +61,7 @@ Nhấn CTRL + T
 
 Kéo xong nhấn enter để hoàn thành
 
+Quick selection tool: dùng để chọn vùng chọn, để ý thanh ngang trên đầu chọn "Select Subject" để con AI chọn nhanh đối tượng.
+
+Crtl + D để bỏ vùng chọn
+

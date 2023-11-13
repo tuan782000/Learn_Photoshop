@@ -79,6 +79,6 @@ Tổng kết:
 
 Định nghĩa về Layer
 
-Cách hoạt động cơ bản của layer trong PÝ
+Cách hoạt động cơ bản của layer trong PTS
 
 Những chức năng/Thuộc tính trong bảng Layer của PTS

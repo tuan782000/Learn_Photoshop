@@ -32,7 +32,9 @@ RGB: Hệ màu **Addictive** (hệ màu cộng)
 Red - Green - Blue
 
 Kết hợp Red + Blue = Magenta (màu hồng)
-Kết hợp Green + Blue = Cyan (màu hồng)
+
+Kết hợp Green + Blue = Cyan (lục lam)
+
 Kết hợp Red + Green =  Yellow (vàng)
 
 Để ý thấy 3 cái màu sau khi kết hợp nó sáng hơn những màu chính
@@ -45,7 +47,9 @@ CMYK: Hệ màu **Subtractive** (hệ màu trừ)
 Kết hợp 3 màu Cyan + Magenta + Yellow = Black
 
 Cyan + Magenta = Blue
+
 Cyan + Yellow = Green
+
 Magenta + Yellow = Red
 
 Để ý thấy 3 cái màu sau khi kết hợp nó cho màu tối hơn những mảng màu chính.
@@ -91,6 +95,7 @@ Mã màu Hex thì nó thuộc mã màu RGB - Nên khi in ấn tránh dùng mã m
 Hex có mã #RRGGBB
 
 trắng #FFFFFF
+
 đen #000000
 
 CMYK hiển thị từ 0 - 100%
