@@ -1,0 +1,1 @@
+# 33 Sự khác biệt giữa file Raw và JPEG

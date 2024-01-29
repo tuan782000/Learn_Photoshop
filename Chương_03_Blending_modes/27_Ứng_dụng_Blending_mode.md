@@ -1,0 +1,1 @@
+# 27 Ứng dụng Blending Mode
